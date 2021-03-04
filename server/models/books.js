@@ -1,3 +1,9 @@
+/*   File name: books.js
+     Created By: Gagandeep Singh
+     Student ID: 301146293
+     WebApp Name: Favourite Book MidTerm
+*/
+
 let mongoose = require('mongoose');
 
 // create a model class
